@@ -7,10 +7,12 @@
     "start": "vite",
     "build": "vite build",
     "preview": "vite preview"
-
   },
-  "dependencies": {},
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "notyf": "^3.10.0"
+  },
   "devDependencies": {
-    "vite": "^4.x.x" 
+    "vite": "^4.x.x"
   }
 }
